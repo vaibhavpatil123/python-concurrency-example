@@ -1,8 +1,7 @@
-[![HitCount](http://hits.dwyl.io/ro6ley/python-concurrency-example.svg)](http://hits.dwyl.io/ro6ley/python-concurrency-example)
 
-# Concurrency in Python
 
-This repository contains the code for this [blogpost](https://stackabuse.com/concurrency-in-python/) on [StackAbuse](https://stackabuse.com/).
+https://stackabuse.com/concurrency-in-python/
+
 
 ## Getting Started
 
